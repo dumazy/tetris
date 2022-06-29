@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sandbox/config.dart';
+
+import 'config.dart';
 
 const _borderColor = Colors.black;
 const _separatorColor = Colors.black45;

@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter_sandbox/game_controller.dart';
 
 import 'field.dart';
+import 'game_controller.dart';
 
 class Game extends StatefulWidget {
   const Game({Key? key}) : super(key: key);
